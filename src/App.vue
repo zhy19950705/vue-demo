@@ -57,7 +57,7 @@ export default {
     transition-timing-function: linear;
     // 分别设置每个气泡不同的位置、大小、透明度和速度，以显得有层次感；
     &:nth-child(1){
-      left: 11%;
+      left: 10%;
     }
     &:nth-child(2){
       left: 20%;

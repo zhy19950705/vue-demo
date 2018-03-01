@@ -62,7 +62,7 @@ export default {
     &:nth-child(2){
       left: 20%;
       width: 90px;
-      height: 90px;
+      height: 91px;
       animation-delay: 2s;
       animation-duration: 7s;
     }
